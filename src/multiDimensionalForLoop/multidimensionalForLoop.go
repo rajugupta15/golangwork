@@ -6,7 +6,7 @@ import (
 )
 
 var (
-	domain = []string{"plivo", "plivops"}
+	domain = []string{"thegeeklinux", "rajugupta"}
 )
 
 func main() {
